@@ -8,6 +8,10 @@ I'm excited to learn and perfect my programming skills, as at the moment I'm pre
 I'm currently coding on python, and as I said, I kinda suck at it tbh.
 Still, if you ever come use anything I coded, thank you so much, having something I do actually help people feels truly rewarding.
 
+### Links
+* [My GitHub profile](https://github.com/Pan0ramaa)
+* [Discord](https://discord.st/ramen)
+
 ### Projects I'm working on
 
 * [Skyblock Stats Tool(s)](https://github.com/Pan0ramaa/skyblock-stats)
