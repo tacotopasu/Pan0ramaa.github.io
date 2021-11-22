@@ -1,4 +1,4 @@
-## Welcome to my personal GitHub page!
+## Welcome!
 
 ### About me
 There's not much to say about myself, other than:
